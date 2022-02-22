@@ -1,0 +1,28 @@
+
+.items{
+    &-left{
+        margin-right: auto;
+    }
+    &-right{
+        margin-left: auto;
+    }
+}
+
+.icon{
+    &-sm{
+        width: 2rem;
+        height: 2rem;
+    }
+    &-md{
+        width: 4rem;
+        height: 4rem;
+    }
+    &-lg{
+        width: 6rem;
+        height: 6rem;
+    }
+    &-xl{
+        width: 8rem;
+        height: 8rem;
+    }
+}
